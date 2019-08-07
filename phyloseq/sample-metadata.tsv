@@ -1,0 +1,12 @@
+# single-end PHRED 33 fastq manifest file				
+sample-id	absolute-filepath	Site	Sample-type	Sample-description
+1.BL1	$PWD/trimmed_seqs/IonXpress_001_trimmed.fastq	Boatyard(undisturbed)	Soil	baseline
+2.BL2	$PWD/trimmed_seqs/IonXpress_002_trimmed.fastq	Boatyard(undisturbed)	Soil	baseline
+3.BYM1.2	$PWD/trimmed_seqs/IonXpress_003_trimmed.fastq	Boatyard(undisturbed)	sediment(R.mucronata)	healthy
+4.BYM1.1	$PWD/trimmed_seqs/IonXpress_004_trimmed.fastq	Boatyard(undisturbed)	sediment(R.mucronata)	healthy
+5.BYM2.1	$PWD/trimmed_seqs/IonXpress_005_trimmed.fastq	Boatyard(undisturbed)	sediment(S.alba)	healthy
+6.BYM2.2	$PWD/trimmed_seqs/IonXpress_006_trimmed.fastq	Boatyard(undisturbed)	sediment(S.alba)	healthy
+7.CJM1.1	$PWD/trimmed_seqs/IonXpress_007_trimmed.fastq	Jetty(disturbed)	sediment(R.mucronata)	unhealthy
+8.CJM1.2	$PWD/trimmed_seqs/IonXpress_008_trimmed.fastq	Jetty(disturbed)	sediment(R.mucronata)	unhealthy
+9.CJM2.1	$PWD/trimmed_seqs/IonXpress_009_trimmed.fastq	Jetty(disturbed)	sediment(S.alba)	unhealthy
+10.CJM2.2	$PWD/trimmed_seqs/IonXpress_010_trimmed.fastq	Jetty(disturbed)	sediment(S.alba)	unhealthy
