@@ -14,6 +14,11 @@ To do microbiome analysis of two mangrove species, Sonneratia alba Sm. and Rhizo
   <li>Use the R package Phyloseq to further analyse the data generated using Qiime.</li>
   </ul>
   
+  ## Tools used.
+  <ul>
+  <li>Bash.</li>
+  <li>R.</li>
+  </ul>
   
   ## Members.
   <ul>
@@ -21,5 +26,5 @@ To do microbiome analysis of two mangrove species, Sonneratia alba Sm. and Rhizo
   <li>Shaban Mziray</li>
   <li>Stanslaus Musyoki</li>
   <li>Karega Pauline</li>
-
+</ul>
 
